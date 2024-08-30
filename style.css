@@ -130,6 +130,11 @@ body {
   left: 20px;
 }
 
+#mobile{
+  display: none;
+  align-items: center;
+}
+
 /* Home Page */
 #hero{
   background-image: url(img/hero4.png);
@@ -488,3 +493,9 @@ footer .copyright{
   width: 100%;
   text-align: center;
 }
+
+#close {
+  display: none;
+}
+
+
